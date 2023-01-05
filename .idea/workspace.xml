@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6841f1f3-6028-433d-98f4-4598471bcd2c" name="Changes" comment="CREATE ALL">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6841f1f3-6028-433d-98f4-4598471bcd2c" name="Changes" comment="modify pom with sonarcloud property" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +26,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/rafaelvazquezmoraes/Documents/INFO SI/S2/MEDEV/DAMES/src/main/java/org/example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672904688047</updated>
-      <workItem from="1672904690351" duration="324000" />
+      <workItem from="1672904690351" duration="683000" />
     </task>
     <task id="LOCAL-00001" summary="CREATE ALL">
       <created>1672904714445</created>
@@ -52,7 +52,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672904714445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add dames files">
+      <created>1672905211814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672905211814</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modify pom with sonarcloud property">
+      <created>1672905388860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672905388860</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +85,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CREATE ALL" />
-    <option name="LAST_COMMIT_MESSAGE" value="CREATE ALL" />
+    <MESSAGE value="add dames files" />
+    <MESSAGE value="modify pom with sonarcloud property" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify pom with sonarcloud property" />
   </component>
 </project>
